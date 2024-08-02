@@ -1,0 +1,9 @@
+Faktura dla zamowienia: 12
+wystawiona dnia: 2/8/2024
+NIP: 21321321
+Nabywca: Maciej Maciej
+Zamowione produkty: 
+Taboret	 x1
+Krem do twarzy	 x2
+Zestaw do sushi	 x1
+Suma: 384,99zl

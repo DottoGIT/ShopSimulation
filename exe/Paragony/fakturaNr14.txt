@@ -1,0 +1,7 @@
+Faktura dla zamowienia: 14
+wystawiona dnia: 2/8/2024
+NIP: 3213
+Nabywca: Maciej Maciej
+Zamowione produkty: 
+Zestaw do sushi	 x1
+Suma: 89,99zl

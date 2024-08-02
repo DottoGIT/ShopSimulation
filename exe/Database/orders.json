@@ -1,0 +1,206 @@
+{
+    "order1": {
+        "address": {
+            "city": "Poznan",
+            "postalCode": "01-111",
+            "streetAndNum": "Poznanska 13/12"
+        },
+        "client": {
+            "login": "ojeju12",
+            "name": "lukasz",
+            "password": "haslo123",
+            "surname": "kowalski"
+        },
+        "date": "15/6/2023",
+        "price": 32750,
+        "products": {
+            "product1": {
+                "productId": 0,
+                "quantity": 2
+            },
+            "product2": {
+                "productId": 2,
+                "quantity": 1
+            }
+        },
+        "status": "w trakcie dostawy"
+    },
+    "order2": {
+        "address": {
+            "city": "Warszawa",
+            "postalCode": "Wesola",
+            "streetAndNum": "44/11"
+        },
+        "client": {
+            "login": "franek",
+            "name": "franek",
+            "password": "franek",
+            "surname": "frankowski"
+        },
+        "date": "15/6/2023",
+        "price": 118849,
+        "products": {
+            "product1": {
+                "productId": 4,
+                "quantity": 1
+            },
+            "product2": {
+                "productId": 6,
+                "quantity": 1
+            }
+        },
+        "status": "w trakcie dostawy"
+    },
+    "order3": {
+        "address": {
+            "city": "Poznan",
+            "postalCode": "01-111",
+            "streetAndNum": "Poznanska 13"
+        },
+        "client": {
+            "login": "ojeju12",
+            "name": "lukasz",
+            "password": "haslo123",
+            "surname": "kowalski"
+        },
+        "date": "15/6/2023",
+        "price": 7649,
+        "products": {
+            "product1": {
+                "productId": 5,
+                "quantity": 1
+            }
+        },
+        "status": "w trakcie dostawy"
+    },
+    "order4": {
+        "address": {
+            "city": "Warszawa",
+            "postalCode": "04-035",
+            "streetAndNum": "Konwaliowa 11"
+        },
+        "client": {
+            "login": "ojeju12",
+            "name": "lukasz",
+            "password": "haslo123",
+            "surname": "kowalski"
+        },
+        "date": "15/6/2023",
+        "price": 52249,
+        "products": {
+            "product1": {
+                "productId": 1,
+                "quantity": 1
+            },
+            "product2": {
+                "productId": 2,
+                "quantity": 2
+            },
+            "product3": {
+                "productId": 6,
+                "quantity": 1
+            }
+        },
+        "status": "w realizacji"
+    },
+    "order5": {
+        "address": {
+            "city": "Warszawa",
+            "postalCode": "11-111",
+            "streetAndNum": "Warszawska 11/21"
+        },
+        "client": {
+            "login": "franek",
+            "name": "franek",
+            "password": "franek",
+            "surname": "frankowski"
+        },
+        "date": "15/6/2023",
+        "price": 23996,
+        "products": {
+            "product1": {
+                "productId": 1,
+                "quantity": 3
+            },
+            "product2": {
+                "productId": 5,
+                "quantity": 1
+            }
+        },
+        "status": "zwrot"
+    },
+    "order6": {
+        "address": {
+            "city": "Pruszków",
+            "postalCode": "123",
+            "streetAndNum": "213"
+        },
+        "client": {
+            "login": "maciej",
+            "name": "Maciej",
+            "password": "maciej",
+            "surname": "Scheffer"
+        },
+        "date": "2/8/2024",
+        "price": 38499,
+        "products": {
+            "product1": {
+                "productId": 0,
+                "quantity": 1
+            },
+            "product2": {
+                "productId": 2,
+                "quantity": 2
+            },
+            "product3": {
+                "productId": 5,
+                "quantity": 1
+            }
+        },
+        "status": "zwrot"
+    },
+    "order7": {
+        "address": {
+            "city": "123",
+            "postalCode": "21312",
+            "streetAndNum": "3123123123"
+        },
+        "client": {
+            "login": "maciej",
+            "name": "Maciej",
+            "password": "maciej",
+            "surname": "Scheffer"
+        },
+        "date": "2/8/2024",
+        "price": 68100,
+        "products": {
+            "product1": {
+                "productId": 3,
+                "quantity": 2
+            }
+        },
+        "status": "w trakcie dostawy"
+    },
+    "order8": {
+        "address": {
+            "city": "123",
+            "postalCode": "12312",
+            "streetAndNum": "12"
+        },
+        "client": {
+            "login": "maciej",
+            "name": "Maciej",
+            "password": "maciej",
+            "surname": "Scheffer"
+        },
+        "date": "2/8/2024",
+        "price": 8999,
+        "products": {
+            "product1": {
+                "productId": 5,
+                "quantity": 1
+            }
+        },
+        "status": "oczekuje na platnosc"
+    }
+}

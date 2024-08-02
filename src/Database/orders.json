@@ -1,0 +1,342 @@
+{
+    "order1": {
+        "address": {
+            "city": "Poznan",
+            "postalCode": "01-111",
+            "streetAndNum": "Poznanska 13/12"
+        },
+        "client": {
+            "login": "ojeju12",
+            "name": "lukasz",
+            "password": "haslo123",
+            "surname": "kowalski"
+        },
+        "date": "16/6/2023",
+        "price": 32750,
+        "products": {
+            "product1": {
+                "productId": 0,
+                "quantity": 2
+            },
+            "product2": {
+                "productId": 2,
+                "quantity": 1
+            }
+        },
+        "status": "w trakcie dostawy"
+    },
+    "order10": {
+        "address": {
+            "city": "a",
+            "postalCode": "a",
+            "streetAndNum": "a"
+        },
+        "client": {
+            "login": "franek",
+            "name": "franek",
+            "password": "franek",
+            "surname": "frankowski"
+        },
+        "date": "16/6/2023",
+        "price": 0,
+        "status": "zwrot"
+    },
+    "order11": {
+        "address": {
+            "city": "b",
+            "postalCode": "b",
+            "streetAndNum": "b"
+        },
+        "client": {
+            "login": "franek",
+            "name": "franek",
+            "password": "franek",
+            "surname": "frankowski"
+        },
+        "date": "16/6/2023",
+        "price": 0,
+        "status": "zwrot"
+    },
+    "order12": {
+        "address": {
+            "city": "",
+            "postalCode": "",
+            "streetAndNum": ""
+        },
+        "client": {
+            "login": "not logged",
+            "name": "-",
+            "password": "-",
+            "surname": "-"
+        },
+        "date": "16/6/2023",
+        "price": 510750,
+        "products": {
+            "product1": {
+                "productId": 3,
+                "quantity": 15
+            }
+        },
+        "status": "zwrot"
+    },
+    "order13": {
+        "address": {
+            "city": "a",
+            "postalCode": "as",
+            "streetAndNum": "sad"
+        },
+        "client": {
+            "login": "franek",
+            "name": "franek",
+            "password": "franek",
+            "surname": "frankowski"
+        },
+        "date": "16/6/2023",
+        "price": 1211984,
+        "products": {
+            "product1": {
+                "productId": 0,
+                "quantity": 10
+            },
+            "product2": {
+                "productId": 2,
+                "quantity": 10
+            },
+            "product3": {
+                "productId": 4,
+                "quantity": 10
+            },
+            "product4": {
+                "productId": 5,
+                "quantity": 6
+            },
+            "product5": {
+                "productId": 6,
+                "quantity": 2
+            }
+        },
+        "status": "oczekuje na platnosc"
+    },
+    "order14": {
+        "address": {
+            "city": "",
+            "postalCode": "",
+            "streetAndNum": ""
+        },
+        "client": {
+            "login": "franek",
+            "name": "franek",
+            "password": "franek",
+            "surname": "frankowski"
+        },
+        "date": "16/6/2023",
+        "price": 534594,
+        "products": {
+            "product1": {
+                "productId": 4,
+                "quantity": 6
+            }
+        },
+        "status": "oczekuje na platnosc"
+    },
+    "order2": {
+        "address": {
+            "city": "",
+            "postalCode": "",
+            "streetAndNum": ""
+        },
+        "client": {
+            "login": "not logged",
+            "name": "-",
+            "password": "-",
+            "surname": "-"
+        },
+        "date": "16/6/2023",
+        "price": 43750,
+        "products": {
+            "product1": {
+                "productId": 2,
+                "quantity": 5
+            }
+        },
+        "status": "zwrot"
+    },
+    "order3": {
+        "address": {
+            "city": "",
+            "postalCode": "",
+            "streetAndNum": ""
+        },
+        "client": {
+            "login": "franek",
+            "name": "franek",
+            "password": "franek",
+            "surname": "frankowski"
+        },
+        "date": "16/6/2023",
+        "price": 49990,
+        "products": {
+            "product1": {
+                "productId": 1,
+                "quantity": 10
+            }
+        },
+        "status": "zwrot"
+    },
+    "order4": {
+        "address": {
+            "city": "",
+            "postalCode": "",
+            "streetAndNum": ""
+        },
+        "client": {
+            "login": "franek",
+            "name": "franek",
+            "password": "franek",
+            "surname": "frankowski"
+        },
+        "date": "16/6/2023",
+        "price": 1068480,
+        "products": {
+            "product1": {
+                "productId": 2,
+                "quantity": 10
+            },
+            "product2": {
+                "productId": 4,
+                "quantity": 10
+            },
+            "product3": {
+                "productId": 5,
+                "quantity": 10
+            }
+        },
+        "status": "zwrot"
+    },
+    "order5": {
+        "address": {
+            "city": "",
+            "postalCode": "",
+            "streetAndNum": ""
+        },
+        "client": {
+            "login": "not logged",
+            "name": "-",
+            "password": "-",
+            "surname": "-"
+        },
+        "date": "16/6/2023",
+        "price": 24995,
+        "products": {
+            "product1": {
+                "productId": 1,
+                "quantity": 5
+            }
+        },
+        "status": "w trakcie dostawy"
+    },
+    "order6": {
+        "address": {
+            "city": "Warszawa",
+            "postalCode": "Wesola",
+            "streetAndNum": "44/11"
+        },
+        "client": {
+            "login": "franek",
+            "name": "franek",
+            "password": "franek",
+            "surname": "frankowski"
+        },
+        "date": "16/6/2023",
+        "price": 118849,
+        "products": {
+            "product1": {
+                "productId": 4,
+                "quantity": 1
+            },
+            "product2": {
+                "productId": 6,
+                "quantity": 1
+            }
+        },
+        "status": "w trakcie dostawy"
+    },
+    "order7": {
+        "address": {
+            "city": "Poznan",
+            "postalCode": "01-111",
+            "streetAndNum": "Poznanska 13"
+        },
+        "client": {
+            "login": "ojeju12",
+            "name": "lukasz",
+            "password": "haslo123",
+            "surname": "kowalski"
+        },
+        "date": "16/6/2023",
+        "price": 7649,
+        "products": {
+            "product1": {
+                "productId": 5,
+                "quantity": 1
+            }
+        },
+        "status": "w trakcie dostawy"
+    },
+    "order8": {
+        "address": {
+            "city": "Warszawa",
+            "postalCode": "04-035",
+            "streetAndNum": "Konwaliowa 11"
+        },
+        "client": {
+            "login": "ojeju12",
+            "name": "lukasz",
+            "password": "haslo123",
+            "surname": "kowalski"
+        },
+        "date": "16/6/2023",
+        "price": 52249,
+        "products": {
+            "product1": {
+                "productId": 1,
+                "quantity": 1
+            },
+            "product2": {
+                "productId": 2,
+                "quantity": 2
+            },
+            "product3": {
+                "productId": 6,
+                "quantity": 1
+            }
+        },
+        "status": "w realizacji"
+    },
+    "order9": {
+        "address": {
+            "city": "Warszawa",
+            "postalCode": "11-111",
+            "streetAndNum": "Warszawska 11/21"
+        },
+        "client": {
+            "login": "franek",
+            "name": "franek",
+            "password": "franek",
+            "surname": "frankowski"
+        },
+        "date": "16/6/2023",
+        "price": 23996,
+        "products": {
+            "product1": {
+                "productId": 1,
+                "quantity": 3
+            },
+            "product2": {
+                "productId": 5,
+                "quantity": 1
+            }
+        },
+        "status": "zwrot"
+    }
+}

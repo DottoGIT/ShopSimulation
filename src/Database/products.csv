@@ -1,0 +1,8 @@
+Nazwa,CenaZl,CenaGr,T0,T1,T2,T3,T4,ImgPath
+Taboret,120,00,T,N,N,N,N,../Sklep/Images/taboret.png
+Pilka Nozna,49,99,N,T,N,N,T,../Sklep/Images/football.png
+Krem do twarzy,87,50,N,N,T,N,N,../Sklep/Images/krem.png
+Zegar Naścienny,340,50,T,N,N,N,N,../Sklep/Images/zegar.png
+Telewizor,890,99,N,N,N,N,T,../Sklep/Images/telewizor.png
+Zestaw do sushi,89,99,N,N,N,T,T,../Sklep/Images/sushi.png
+Buty Sportowe,297,50,N,T,N,N,N,../Sklep/Images/buty.png

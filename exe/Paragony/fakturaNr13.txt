@@ -1,0 +1,7 @@
+Faktura dla zamowienia: 13
+wystawiona dnia: 2/8/2024
+NIP: 12321321
+Nabywca: Maciej Maciej
+Zamowione produkty: 
+Zegar Naścienny	 x2
+Suma: 681,0zl
